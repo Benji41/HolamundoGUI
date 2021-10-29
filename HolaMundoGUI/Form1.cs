@@ -12,15 +12,15 @@ namespace HolaMundoGUI
 {
     public partial class Form1 : Form
     {
-    #comentario inecesario
+    //comentario inecesario
         public Form1()
         {
-            #comentario inecesario3
+            //comentario inecesario3
             InitializeComponent();
             this.label1.Text = "1"+1;
         }
         
-    #comentario inecesario2
+    //comentario inecesario2
         
 
     }
