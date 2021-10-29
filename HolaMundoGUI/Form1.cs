@@ -12,21 +12,16 @@ namespace HolaMundoGUI
 {
     public partial class Form1 : Form
     {
+    #comentario inecesario
         public Form1()
         {
+            #comentario inecesario3
             InitializeComponent();
-            this.label1.Text = Main().ToString();
+            this.label1.Text = "1"+1;
         }
-
-        public static int Main() { 
-            int numero = 2;
-            int numero2 = numero / j;
-            if(numero = 2)
-            {
-                Console.WriteLine("EXITO");
-            }
-            return 0;
-        }
+        
+    #comentario inecesario2
+        
 
     }
 }
